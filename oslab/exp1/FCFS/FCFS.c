@@ -1,8 +1,8 @@
 #include<stdio.h>
-main()
+int main()
 {
-  printf("k.Vyshnavi"\n);
-    printf("204g1a05c4");
-    printf("16/09/2003");
+  printf("k.Vyshnavi\n");
+    printf("204g1a05c4\n");
+    printf("16/09/2003\n");
     print("time:3:00pm");
   } 
